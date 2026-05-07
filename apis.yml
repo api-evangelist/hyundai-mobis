@@ -1,0 +1,24 @@
+aid: hyundai-mobis
+url: https://raw.githubusercontent.com/api-evangelist/hyundai-mobis/refs/heads/main/apis.yml
+name: Hyundai Mobis
+x-type: company
+description: >-
+  Hyundai Mobis is a South Korean global Tier 1 automotive supplier headquartered in Seoul. Part of the Hyundai Motor Group, Mobis designs and manufactures chassis, cockpit, and front-end modules, plus electrification, ADAS, and infotainment systems for global automakers.
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Automotive
+  - Tier 1 Supplier
+  - Modules
+  - ADAS
+  - Electrification
+  - Hyundai Group
+created: '2026-05-06'
+modified: '2026-05-06'
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://www.mobis.com/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
