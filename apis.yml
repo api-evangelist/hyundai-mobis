@@ -4,6 +4,17 @@ name: Hyundai Mobis
 kind: company
 description: >-
   Hyundai Mobis is a South Korean global Tier 1 automotive supplier headquartered in Seoul. Part of the Hyundai Motor Group, Mobis designs and manufactures chassis, cockpit, and front-end modules, plus electrification, ADAS, and infotainment systems for global automakers.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: enterprise
   onboarding: unknown
